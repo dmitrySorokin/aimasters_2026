@@ -21,18 +21,18 @@ This course covers the fundamentals and advanced topics of Reinforcement Learnin
 
 | #  | Date       | Topic                                                                                      | PDF Link                                      |
 |----|------------|--------------------------------------------------------------------------------------------|-----------------------------------------------|
-| 1  | 17/02/2025 | Introduction, Markov Decision Process                                                      | [PDF](lectures/01%20AI%20Masters%20%E2%80%93%20Intro,%20MDP.pdf) |
-| 2  | 24/02/2025 | Dynamic Programming                                                                        | [PDF](lectures/02%20AI%20Masters%20%E2%80%93%20Dynamic%20Programming.pdf) |
-| 3  | 03/03/2025 | Temporal Differences                                                                       | [PDF](lectures/03%20AI%20Masters%20%E2%80%93%20Temporal%20Differences.pdf) |
-| 4  | 10/03/2025 | Approximation, Deep Q-Network, Rainbow Extensions                                          | [PDF](lectures/04%20AI%20Masters%20%E2%80%93%20Deep%20Q-Networks.pdf) |
-| 5  | 17/03/2025 | Policy Gradient Optimization, Actor-Critic (PG, REINFORCE, A2C)                            | [PDF](lectures/05%20AI%20Masters%20%E2%80%93%20Policy%20Gradient%20Optimization,%20Actor-Critic.pdf) |
-| 6  | 24/03/2025 | Advanced Actor-Critic Methods (TRPO, PPO, GAE)                                             | [PDF](lectures/06%20AI%20Masters%20-%20Proximal%20Policy%20Optimization.pdf) |
-| 7  | 31/03/2025 | Continuous Action Space (DDPG, TD3, SAC)                                                   | [PDF](lectures/07%20AI%20Masters%20%E2%80%93%20Continuous%20Action%20Space.pdf) |
-| 8  | 07/04/2025 | Multi-Agent Reinforcement Learning (IDQN, IPPO, QMIX, MAPPO)                               | [PDF](lectures/08%20AI%20Masters%20%E2%80%93%20Multi-Agent%20RL.pdf) |
-| 9  | 14/04/2025 | Learning from Demonstrations. Transformers in RL                                           | [PDF](lectures/09%20AI%20Masters%20%E2%80%93%20Offline%20RL,%20Decision%20Transformer.pdf) |
-| 10 | 21/04/2025 | Integrating Reinforcement Learning and Planning                                            | [PDF](lectures/10%20AI%20Masters%20%E2%80%93%20Integrating%20Reinforcement%20Learning%20and%20Planning.pdf) |
-| 11 | 28/04/2025 | Linear Dynamical Systems                                                                   | [PDF](lectures/11%20AI%20Masters%20%E2%80%93%20Linear%20Dynamical%20Systems.pdf) |
-| 12 | 05/05/2025 | Practical Applications of RL, GRPO                                                         | [PDF](lectures/12%20AI%20Masters%20%E2%80%93%20Practical%20Applications%20of%20RL,%20GRPO.pdf) |
+| 1  | 09/02/2025 | Introduction, Markov Decision Process                                                      | [PDF](lectures/01%20AI%20Masters%20%E2%80%93%20Intro,%20MDP.pdf) |
+| 2  | 16/02/2025 | Dynamic Programming                                                                        | [PDF](lectures/02%20AI%20Masters%20%E2%80%93%20Dynamic%20Programming.pdf) |
+| 3  | 23/02/2025 | Temporal Differences                                                                       | [PDF](lectures/03%20AI%20Masters%20%E2%80%93%20Temporal%20Differences.pdf) |
+| 4  | 02/03/2025 | Approximation, Deep Q-Network, Rainbow Extensions                                          | [PDF](lectures/04%20AI%20Masters%20%E2%80%93%20Deep%20Q-Networks.pdf) |
+| 5  | 09/03/2025 | Policy Gradient Optimization, Actor-Critic (PG, REINFORCE, A2C)                            | [PDF](lectures/05%20AI%20Masters%20%E2%80%93%20Policy%20Gradient%20Optimization,%20Actor-Critic.pdf) |
+| 6  | 16/03/2025 | Advanced Actor-Critic Methods (TRPO, PPO, GAE)                                             | [PDF](lectures/06%20AI%20Masters%20-%20Proximal%20Policy%20Optimization.pdf) |
+| 7  | 23/03/2025 | Continuous Action Space (DDPG, TD3, SAC)                                                   | [PDF](lectures/07%20AI%20Masters%20%E2%80%93%20Continuous%20Action%20Space.pdf) |
+| 8  | 30/03/2025 | Multi-Agent Reinforcement Learning (IDQN, IPPO, QMIX, MAPPO)                               | [PDF](lectures/08%20AI%20Masters%20%E2%80%93%20Multi-Agent%20RL.pdf) |
+| 9  | 06/04/2025 | Learning from Demonstrations. Transformers in RL                                           | [PDF](lectures/09%20AI%20Masters%20%E2%80%93%20Offline%20RL,%20Decision%20Transformer.pdf) |
+| 10 | 13/04/2025 | Integrating Reinforcement Learning and Planning                                            | [PDF](lectures/10%20AI%20Masters%20%E2%80%93%20Integrating%20Reinforcement%20Learning%20and%20Planning.pdf) |
+| 11 | 20/04/2025 | Linear Dynamical Systems                                                                   | [PDF](lectures/11%20AI%20Masters%20%E2%80%93%20Linear%20Dynamical%20Systems.pdf) |
+| 12 | 27/04/2025 | Practical Applications of RL, GRPO                                                         | [PDF](lectures/12%20AI%20Masters%20%E2%80%93%20Practical%20Applications%20of%20RL,%20GRPO.pdf) |
 
 ---
 
