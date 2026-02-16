@@ -42,16 +42,16 @@ This course covers the fundamentals and advanced topics of Reinforcement Learnin
 |----|---------------------------------------|-----------------------------------|
 | 1  | Cross Entropy                        | [seminar_1_cross_entropy](seminar_1_cross_entropy) |
 | 2  | Value Iteration                      | [seminar_2_value_iteration](seminar_2_value_iteration) |
-| 3  | Q-Learning, SARSA, TD(λ)             | [seminar_3_q_learning_sarsa_td_lambda](seminar_3_q_learning_sarsa_td_lambda) |
-| 4  | Deep Q-Networks                      | [seminar_4_deep_q_networks](seminar_4_deep_q_networks) |
-| 5  | REINFORCE, Actor-Critic              | [seminar_5_reiforce_actor_critic](seminar_5_reiforce_actor_critic) |
-| 6  | PPO                                  | [seminar_6_ppo](seminar_6_ppo) |
-| 7  | DDPG, TD3, SAC                       | [seminar_7_ddpg_td3_sac](seminar_7_ddpg_td3_sac) |
-| 8  | QMIX                                 | [seminar_8_qmix](seminar_8_qmix) |
-| 9  | Decision Transformer                 | [seminar_9_decision_transformer](seminar_9_decision_transformer) |
-| 10 | MCTS                                 | [seminar_10_mcts](seminar_10_mcts) |
-| 11 | LQR                                  | [seminar_11_lqr](seminar_11_lqr) |
-| 12 | GRPO, SFT                            | [seminar_12_grpo_sft](seminar_12_grpo_sft) |
+| 3  | Q-Learning, SARSA, TD(λ)             | TBA |
+| 4  | Deep Q-Networks                      | TBA |
+| 5  | REINFORCE, Actor-Critic              | TBA |
+| 6  | PPO                                  | TBA |
+| 7  | DDPG, TD3, SAC                       | TBA |
+| 8  | QMIX                                 | TBA |
+| 9  | Decision Transformer                 | TBA |
+| 10 | MCTS                                 | TBA |
+| 11 | LQR                                  | TBA |
+| 12 | GRPO, SFT                            | TBA |
 
 ---
 
