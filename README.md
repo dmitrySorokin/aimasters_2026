@@ -42,7 +42,7 @@ This course covers the fundamentals and advanced topics of Reinforcement Learnin
 |----|---------------------------------------|-----------------------------------|
 | 1  | Cross Entropy                        | [seminar_1_cross_entropy](seminar_1_cross_entropy) |
 | 2  | Value Iteration                      | [seminar_2_value_iteration](seminar_2_value_iteration) |
-| 3  | Q-Learning, SARSA, TD(λ)             | TBA |
+| 3  | Q-Learning, SARSA, TD(λ)             | [seminar_3_q_learning_sarsa_td_lambda](seminar_3_q_learning_sarsa_td_lambda) |
 | 4  | Deep Q-Networks                      | TBA |
 | 5  | REINFORCE, Actor-Critic              | TBA |
 | 6  | PPO                                  | TBA |

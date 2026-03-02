@@ -1,2 +1,6 @@
 __pycache__/
-videos/*
+videos/
+**/videos/
+**/videos/**
+*.mp4
+**/*.mp4
