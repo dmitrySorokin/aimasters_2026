@@ -25,7 +25,7 @@ This course covers the fundamentals and advanced topics of Reinforcement Learnin
 | 2  | 16/02/2025 | Dynamic Programming                                                                        | [PDF](lectures/02%20AI%20Masters%20%E2%80%93%20Dynamic%20Programming.pdf) |
 | 3  | 02/03/2025 | Temporal Differences                                                                       | [PDF](lectures/03%20AI%20Masters%20%E2%80%93%20Temporal%20Differences.pdf) |
 | 4  | 16/03/2025 | Approximation, Deep Q-Network, Rainbow Extensions                                          | [PDF-2025](lectures/04%20AI%20Masters%20-%20Deep%20Q-Networks.pdf) |
-| 5  | 23/03/2025 | Policy Gradient Optimization, Actor-Critic (PG, REINFORCE, A2C)                            | [PDF-2025](lectures/05%20AI%20Masters%20%E2%80%93%20Policy%20Gradient%20Optimization,%20Actor-Critic.pdf) |
+| 5  | 23/03/2025 | Policy Gradient Optimization, Actor-Critic (PG, REINFORCE, A2C)                            | [PDF](lectures/05%20AI%20Masters%20%E2%80%93%20Policy%20Gradient%20Optimization,%20Actor-Critic.pdf) |
 | 6  | 30/03/2025 | Advanced Actor-Critic Methods (TRPO, PPO, GAE)                                             | [PDF-2025](lectures/06%20AI%20Masters%20-%20Proximal%20Policy%20Optimization.pdf) |
 | 7  | 06/04/2025 | Continuous Action Space (DDPG, TD3, SAC)                                                   | [PDF-2025](lectures/07%20AI%20Masters%20%E2%80%93%20Continuous%20Action%20Space.pdf) |
 | 8  | 13/04/2025 | Multi-Agent Reinforcement Learning (IDQN, IPPO, QMIX, MAPPO)                               | [PDF-2025](lectures/08%20AI%20Masters%20%E2%80%93%20Multi-Agent%20RL.pdf) |
