@@ -1,6 +1,6 @@
-# 🤖 AI Masters 2025: Reinforcement Learning Course
+# 🤖 AI Masters 2026: Reinforcement Learning Course
 
-Welcome to the official repository for the **AI Masters 2025 Reinforcement Learning Course**! This repo contains all lecture slides, seminar materials, and homework assignments for the course. Whether you're a student, a fellow instructor, or an RL enthusiast, you'll find everything you need to dive deep into the world of Reinforcement Learning.
+Welcome to the official repository for the **AI Masters 2026 Reinforcement Learning Course**! This repo contains all lecture slides, seminar materials, and homework assignments for the course. Whether you're a student, a fellow instructor, or an RL enthusiast, you'll find everything you need to dive deep into the world of Reinforcement Learning.
 
 ---
 
