@@ -33,9 +33,9 @@ This course covers the fundamentals and advanced topics of Reinforcement Learnin
 | 7   | 06/04/2026 | Continuous Action Space (DDPG, TD3, SAC)                        | [PDF](lectures/07%20AI%20Masters%20%E2%80%93%20Continuous%20Action%20Space.pdf)                                  |
 | 8   | 13/04/2026 | Multi-Agent Reinforcement Learning (IDQN, IPPO, QMIX, MAPPO)    | [PDF](lectures/08%20AI%20Masters%20%E2%80%93%20Multi-Agent%20RL.pdf)                                        |
 | 9  | 27/04/2026 | Integrating Reinforcement Learning and Planning                 | [PDF](lectures/10%20AI%20Masters%20%E2%80%93%20Integrating%20Reinforcement%20Learning%20and%20Planning.pdf) |
-| 10   | 20/04/2026 | Learning from Demonstrations. Transformers in RL                | [PDF-2025](lectures/09%20AI%20Masters%20%E2%80%93%20Offline%20RL,%20Decision%20Transformer.pdf)                  |
-| 11  | 04/05/2026 | Linear Dynamical Systems                                        | [PDF-2025](lectures/11%20AI%20Masters%20%E2%80%93%20Linear%20Dynamical%20Systems.pdf)                            |
-| 12  | 18/05/2026 | Practical Applications of RL, GRPO                              | [PDF-2025](lectures/12%20AI%20Masters%20%E2%80%93%20Practical%20Applications%20of%20RL,%20GRPO.pdf)              |
+| 10  | 20/04/2026 | Linear Dynamical Systems                                        | [PDF](lectures/11%20AI%20Masters%20%E2%80%93%20Linear%20Dynamical%20Systems.pdf)                            |
+| 11   | 04/05/2026 | Learning from Demonstrations. Transformers in RL                | [PDF](lectures/09%20AI%20Masters%20%E2%80%93%20Offline%20RL,%20Decision%20Transformer.pdf)                  |
+| 12  | 18/05/2026 | Practical Recommendations for RL                              | TBD |
 
 
 ---
