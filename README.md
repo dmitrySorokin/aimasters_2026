@@ -52,11 +52,11 @@ This course covers the fundamentals and advanced topics of Reinforcement Learnin
 | 5   | REINFORCE, Actor-Critic  | [seminar_05_reiforce_actor_critic](seminar_05_reiforce_actor_critic)           |
 | 6   | PPO                      | [seminar_06_ppo](seminar_06_ppo)                                               |
 | 7   | DDPG, TD3, SAC           | [seminar_07_ddpg_td3_sac](seminar_07_ddpg_td3_sac)                             |
-| 8   | QMIX                     | TBA                                                                            |
-| 9   | Decision Transformer     | TBA                                                                            |
-| 10  | MCTS                     | TBA                                                                            |
-| 11  | LQR                      | TBA                                                                            |
-| 12  | GRPO, SFT                | TBA                                                                            |
+| 8   | QMIX                     | [seminar_08_qmix](seminar_08_qmix)                                             |
+| 9   | Decision Transformer     | [seminar_09_decision_transformer](seminar_09_decision_transformer)             |
+| 10  | MCTS                     | [seminar_10_mcts](seminar_10_mcts)                                             |
+| 11  | LQR                      | [seminar_11_lqr](seminar_11_lqr)                                               |
+| 12  | GRPO, SFT                | [seminar_12_grpo_sft](seminar_12_grpo_sft)                                     |
 
 
 ---
@@ -96,4 +96,3 @@ Feel free to fork, clone, or star this repository. Contributions and feedback ar
 ---
 
 > *Happy Reinforcement Learning!*
-

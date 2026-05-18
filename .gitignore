@@ -6,3 +6,5 @@ videos/
 **/*.mp4
 .DS_Store
 **/.DS_Store
+seminar_09_decision_transformer/dataset/
+seminar_09_decision_transformer/*.zip
